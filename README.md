@@ -454,4 +454,4 @@ O MQTT Explorer é uma ferramenta gráfica gratuita que permite visualizar, expl
    - **Password:** `q1w2e3r4`
 4. Clique em **"Connect"** para visualizar todos os tópicos e mensagens em tempo real.
 
-> **Dica:** O MQTT Explorer é excelente para depuração, entendimento da estrutura dos tópicos, análise de payloads e acompanhamento do fluxo de dados entre dispositivos e dashboards.
+> **Dica:** O MQTT Explorer é excelente para depuração, entendimento da estrutura dos tópicos, análise de payloads e acompanhamento do fluxo de dados entre dispositivos e dashboards."# iot-cp1" 
